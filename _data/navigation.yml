@@ -3,12 +3,10 @@ main:
   - title: "Categories"
     url: /categories/
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
   - title: "연도별 포스트"
-    url: /posts
+    url: /posts/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
