@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Categories"
+  - title: "카테고리별 포스트"
     url: /categories/
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
   - title: "연도별 포스트"
     url: /posts/
   # - title: "Sample Posts"
