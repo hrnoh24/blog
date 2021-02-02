@@ -1,7 +1,7 @@
 choco:
   name        : "초코"
   bio         : "이제 막 사회에 뛰어든 신입 AI 엔지니어입니다."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/img/profile.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
