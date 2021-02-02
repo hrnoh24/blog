@@ -48,7 +48,7 @@ Zero-shot voice conversion을 수행하는 것<br>
 
 # Method
 
-![image-20210202001338622](https://hrnoh24.github.io/blog/assets/img/2021-02-02/figure1.jpg){:.img-responsive.align-center}
+![image-20210202001338622](/assets/img/2021-02-02/figure1.jpg){:.img-responsive.align-center}
 
 *Training and transfer 과정. 왼쪽: style encoder $$E_s$$를 $$\hat{\mathcal{I}}_1$$를 통해 훈련하는 과정. 가운데: $$\hat{\mathcal{I}}_2, \hat{\mathcal{I}}_3$$을 통해 Content encoder $$E_c$$와 Decoder를 훈련하는 과정. 오른쪽: Speaker $$u$$의 음성인 $$x_{ui}$$로부터 content information을 추출하고 Speaker $$v$$의 음성인 $$x_{vi}$$로부터 style information을 추출하여 이를 Decoder에 넣어 voice style transfer를 수행하는 과정*
 

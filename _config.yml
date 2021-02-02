@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "초코"
 description              : "다양한 인공지능 및 개발 관련 지식을 공유하는 블로그"
 url                      : "https://hrnoh24.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "hrnoh24/hrnoh24.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -30,7 +30,7 @@ masthead_title           : "초코네 AI 연구소" # overrides the website titl
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facfebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : "hrnoh24" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
