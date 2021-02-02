@@ -57,6 +57,7 @@ Zero-shot voice conversion을 수행하는 것<br>
   * 수학적 정의
 
     $$I(X;Y):=\sum_{x,y}p(x,y)\log\frac{p(x,y)}{p(x)p(y)}$$
+
     * $$p(x,y)$$ : joint distribution
     * $$p(x)$$ : $$x$$의 marginal distribution
     * $$p(y)$$ : $$y$$의 marginal distribution
@@ -70,3 +71,5 @@ Zero-shot voice conversion을 수행하는 것<br>
   * Nguyen, Wainwright, and Jordan (NWJ)의 estimator [[paper](https://arxiv.org/abs/0809.0853)]
 
     $$\mathcal{I}_{NWJ}:=\mathbb{E}_{p(x,y)}[f(x,y)]-e^{-1}\mathbb{E}_{p(x)p(y)}[e^{f(x,y)}]$$
+
+    * $$f(x,y)$$ : score function
