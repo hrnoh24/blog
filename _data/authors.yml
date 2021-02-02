@@ -1,0 +1,17 @@
+choco:
+  name        : "초코"
+  bio         : "이제 막 사회에 뛰어든 신입 AI 엔지니어입니다."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hrnoh24@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      #url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hrnoh24"

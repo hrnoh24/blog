@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[ICLR 2021] Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning 요약"
-author: 초코
+author: choco
 excerpt: Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning 논문을 요약해보았습니다.
 
 date: 2021-02-02
@@ -11,11 +11,6 @@ categories:
   - papers
 tags:
   - Voice Conversion
-toc: true
-toc_sticky: true
-classes: wide
-use_math: true
-comments: true
 ---
 
 
