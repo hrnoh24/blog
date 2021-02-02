@@ -55,18 +55,6 @@ Zero-shot voice conversion을 수행하는 것<br>
 
 
 
-### 1) 용어정리
-
-$$N$$ : audio(voice) recording의 수
-
-$$M$$ : speaker의 수
-
-$$u$$ : 특정 speaker를 나타내는 speaker id
-
-$$N_u$$ : speaker $$u$$가 가진 voice samples의 수
-
-
-
 ### 0. Background
 
 * MI (Mutual information)이란? [참조](https://blueskyvision.tistory.com/m/774?category=786439)
